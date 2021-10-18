@@ -1,1 +1,1 @@
-alert("test  world");
+require('./style.css');
